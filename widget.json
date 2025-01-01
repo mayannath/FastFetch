@@ -1,0 +1,6 @@
+{
+  "name": "FastFetch",
+  "description": "Fastfetch is a command-line tool designed to display system information in an aesthetically pleasing format, similar to Neofetch. Written primarily in C, it serves as a maintained and performance-oriented alternative following the discontinuation of Neofetch in April 2024. Fastfetch provides detailed insights into system components such as CPU, GPU, memory, and local IP addresses, along with customizable output options that allow users to tailor the displayed information to their preferences",
+  "author": "Mayan Nath",
+  "email": "mayannath@icloud.com"
+}
